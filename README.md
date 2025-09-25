@@ -19,3 +19,10 @@ The project compares models for classifying healthy and diseased rice leaves.
 - Jupyter Notebook  
 - Libraries: `tensorflow`, `numpy`, `pandas`, `matplotlib`, `scikit-learn`
 
+---
+
+### Run
+```bash
+git clone https://github.com/anaya-01/Rice-Leaf-Disease-Detection.git
+cd Rice-Leaf-Disease-Detection
+jupyter notebook
