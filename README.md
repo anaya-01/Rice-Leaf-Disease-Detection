@@ -1,6 +1,6 @@
 # Rice Leaf Disease Detection
 
-Detecting rice leaf diseases using deep learning (CNN, DenseNet, EfficientNet).  
+Detecting rice leaf diseases using deep learning (CNN, DenseNet-121, EfficientNet-b0).  
 The project compares models for classifying healthy and diseased rice leaves.
 
 ---
